@@ -1,0 +1,17 @@
+{
+  "name": "fix-audio",
+  "version": "1.0.0",
+  "description": "Diagnose and fix PipeWire audio failures caused by connection exhaustion, zombie clients, and sudden no-sound issues on Linux.",
+  "author": {
+    "name": "Noam Naumovsky",
+    "url": "https://github.com/endlessblink"
+  },
+  "keywords": [
+    "audio",
+    "fix",
+    "system"
+  ],
+  "skills": [
+    "./skills/fix-audio"
+  ]
+}

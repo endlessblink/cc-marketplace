@@ -1,0 +1,18 @@
+{
+  "name": "obsidian-memory-reliability",
+  "version": "1.0.0",
+  "description": "Designs and implements robust durable memory for Obsidian AI plugins. Use when working on Ghost in the Vault memory capture, AI Memory/Core.md, protected memory namespaces, bilingual Hebrew/English triggers, memory verification, migration of unsupported memory notes, or preventing LLM hallucinated m",
+  "author": {
+    "name": "Noam Naumovsky",
+    "url": "https://github.com/endlessblink"
+  },
+  "keywords": [
+    "development",
+    "memory",
+    "obsidian",
+    "reliability"
+  ],
+  "skills": [
+    "./skills/obsidian-memory-reliability"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "distill-session",
+  "version": "1.0.0",
+  "description": "Distill the current conversation into a reusable Markdown skill at `~/.codex/skills/sessions/<topic>.md` so future sessions can replay the approach instead of re-deriving it. Use when a substantial multi-step task wraps up (major refactor, architecture change, debugging investigation, multi-phase bu",
+  "author": {
+    "name": "Noam Naumovsky",
+    "url": "https://github.com/endlessblink"
+  },
+  "keywords": [
+    "distill",
+    "session",
+    "workflow"
+  ],
+  "skills": [
+    "./skills/distill-session"
+  ]
+}

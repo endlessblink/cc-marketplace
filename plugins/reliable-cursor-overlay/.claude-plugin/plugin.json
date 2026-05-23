@@ -1,0 +1,18 @@
+{
+  "name": "reliable-cursor-overlay",
+  "version": "1.0.0",
+  "description": "Use when building screen recording cursor capture, cursor telemetry, playback preview overlays, or FFmpeg/export cursor rendering. Applies to Linux/X11 screen recorders, Screen Studio-style exports, and any workflow where cursor position must stay synced through crop/scale/zoom transforms.",
+  "author": {
+    "name": "Noam Naumovsky",
+    "url": "https://github.com/endlessblink"
+  },
+  "keywords": [
+    "cursor",
+    "media",
+    "overlay",
+    "reliable"
+  ],
+  "skills": [
+    "./skills/reliable-cursor-overlay"
+  ]
+}

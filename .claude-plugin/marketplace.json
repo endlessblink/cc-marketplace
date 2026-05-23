@@ -1673,6 +1673,305 @@
         "contracts",
         "breaking-changes"
       ]
+    },
+    {
+      "name": "rtl-design",
+      "source": "./plugins/rtl-design",
+      "description": "RTL (right-to-left) design patterns for Hebrew/Arabic apps with mixed LTR content. Use when building or fixing RTL layouts, forms, inputs, or mixed-direction text. Triggers on RTL issues, Hebrew layout work, bidirectional text problems.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Noam Naumovsky",
+        "url": "https://github.com/endlessblink"
+      },
+      "category": "design",
+      "keywords": [
+        "design",
+        "rtl"
+      ]
+    },
+    {
+      "name": "reliable-cursor-overlay",
+      "source": "./plugins/reliable-cursor-overlay",
+      "description": "Use when building screen recording cursor capture, cursor telemetry, playback preview overlays, or FFmpeg/export cursor rendering. Applies to Linux/X11 screen recorders, Screen Studio-style exports, and any workflow where cursor position must stay synced through crop/scale/zoom transforms.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Noam Naumovsky",
+        "url": "https://github.com/endlessblink"
+      },
+      "category": "media",
+      "keywords": [
+        "cursor",
+        "media",
+        "overlay",
+        "reliable"
+      ]
+    },
+    {
+      "name": "premium-design-standards",
+      "source": "./plugins/premium-design-standards",
+      "description": "Canonical, opinionated quality bar for premium design AND motion across video and UI — layout/composition, typography (Hebrew + English / bidi), readability & content density, color & surface, and motion/animation. Tech-agnostic principles with concrete numbers, named font/curve/color choices, and e",
+      "version": "1.0.0",
+      "author": {
+        "name": "Noam Naumovsky",
+        "url": "https://github.com/endlessblink"
+      },
+      "category": "design",
+      "keywords": [
+        "design",
+        "premium",
+        "standards"
+      ]
+    },
+    {
+      "name": "dashboard-designer",
+      "source": "./plugins/dashboard-designer",
+      "description": "Premium dark-mode admin dashboard designer with RTL Hebrew support, content editor UX patterns, and Tailwind templates. Use when building or redesigning dashboards, admin panels, or control panels.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Noam Naumovsky",
+        "url": "https://github.com/endlessblink"
+      },
+      "category": "design",
+      "keywords": [
+        "dashboard",
+        "design",
+        "designer"
+      ]
+    },
+    {
+      "name": "curated-desktop-studio-ui",
+      "source": "./plugins/curated-desktop-studio-ui",
+      "description": "Designs and critiques curated desktop/studio-machine interfaces with OS metaphors, draggable windows, folders, docks, feeds, and playful widgets. Use when working on personal portfolio homepages or product surfaces that should feel like a mature macOS/Raycast/Arc/Obsidian-inspired workspace rather t",
+      "version": "1.0.0",
+      "author": {
+        "name": "Noam Naumovsky",
+        "url": "https://github.com/endlessblink"
+      },
+      "category": "design",
+      "keywords": [
+        "curated",
+        "design",
+        "desktop",
+        "studio",
+        "ui"
+      ]
+    },
+    {
+      "name": "blender-material-master",
+      "source": "./plugins/blender-material-master",
+      "description": "Create production-ready Blender materials for game engines with Dutch Golden Age painterly terrain, texture blending, UV, baking, and export workflows.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Noam Naumovsky",
+        "url": "https://github.com/endlessblink"
+      },
+      "category": "3d",
+      "keywords": [
+        "3d",
+        "blender",
+        "master",
+        "material"
+      ]
+    },
+    {
+      "name": "natural-rock-placement",
+      "source": "./plugins/natural-rock-placement",
+      "description": "Place rocks and boulders naturally in 3D environments using Blender workflows, scale rules, grouping, terrain integration, and composition guidance.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Noam Naumovsky",
+        "url": "https://github.com/endlessblink"
+      },
+      "category": "3d",
+      "keywords": [
+        "3d",
+        "natural",
+        "placement",
+        "rock"
+      ]
+    },
+    {
+      "name": "vue-sortable-grouped-dnd",
+      "source": "./plugins/vue-sortable-grouped-dnd",
+      "description": "Implement grouped drag-and-drop in Vue 3 with SortableJS, vuedraggable, auto-scroll, cross-group transfer, and related edge-case guidance.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Noam Naumovsky",
+        "url": "https://github.com/endlessblink"
+      },
+      "category": "development",
+      "keywords": [
+        "development",
+        "dnd",
+        "grouped",
+        "sortable",
+        "vue"
+      ]
+    },
+    {
+      "name": "motion-graphics-not-slideshow",
+      "source": "./plugins/motion-graphics-not-slideshow",
+      "description": "Apply when building animated video/motion content (HyperFrames, After Effects-style HTML, Lottie, web animations) that needs to feel like real animation rather than an animated slideshow. Use when the user says the result feels \"boring\", \"static\", \"like a slideshow\", asks for \"an actual animation\", ",
+      "version": "1.0.0",
+      "author": {
+        "name": "Noam Naumovsky",
+        "url": "https://github.com/endlessblink"
+      },
+      "category": "media",
+      "keywords": [
+        "graphics",
+        "media",
+        "motion",
+        "not",
+        "slideshow"
+      ]
+    },
+    {
+      "name": "linux-chief",
+      "source": "./plugins/linux-chief",
+      "description": "Troubleshoot and enhance KDE Plasma 6 and Tuxedo OS Linux systems across audio, desktop, Docker, filesystems, video, AI tools, and performance.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Noam Naumovsky",
+        "url": "https://github.com/endlessblink"
+      },
+      "category": "system",
+      "keywords": [
+        "chief",
+        "linux",
+        "system"
+      ]
+    },
+    {
+      "name": "fix-audio",
+      "source": "./plugins/fix-audio",
+      "description": "Diagnose and fix PipeWire audio failures caused by connection exhaustion, zombie clients, and sudden no-sound issues on Linux.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Noam Naumovsky",
+        "url": "https://github.com/endlessblink"
+      },
+      "category": "system",
+      "keywords": [
+        "audio",
+        "fix",
+        "system"
+      ]
+    },
+    {
+      "name": "sure",
+      "source": "./plugins/sure",
+      "description": "Confidence gate before implementing a fix or feature.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Noam Naumovsky",
+        "url": "https://github.com/endlessblink"
+      },
+      "category": "workflow",
+      "keywords": [
+        "sure",
+        "workflow"
+      ]
+    },
+    {
+      "name": "noam-writing-style",
+      "source": "./plugins/noam-writing-style",
+      "description": "Writing style guide for Noam Naumovsky's Hebrew and English content. Use whenever drafting, editing, reviewing, or ingesting content that will be published under Noam's name or voice, especially Inner Dialogue posts.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Noam Naumovsky",
+        "url": "https://github.com/endlessblink"
+      },
+      "category": "writing",
+      "keywords": [
+        "noam",
+        "style",
+        "writing"
+      ]
+    },
+    {
+      "name": "electron-linux-tray-state",
+      "source": "./plugins/electron-linux-tray-state",
+      "description": "Use when fixing Electron system tray/status indicator behavior on Linux, especially stale menus, wrong right-click labels, missing icon updates, KDE/GNOME StatusNotifierItem quirks, recording indicators, or tray lifecycle bugs.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Noam Naumovsky",
+        "url": "https://github.com/endlessblink"
+      },
+      "category": "development",
+      "keywords": [
+        "development",
+        "electron",
+        "linux",
+        "state",
+        "tray"
+      ]
+    },
+    {
+      "name": "control-surface-audit",
+      "source": "./plugins/control-surface-audit",
+      "description": "Audit admin dashboards, internal tools, schedulers, workflow builders, bot dashboards, and control panels for hidden reliability holes, misleading UI states, missing lifecycle guarantees, unobserved background jobs, and absent vertical tests. Use when a fast-built project feels hollow, fragile, or u",
+      "version": "1.0.0",
+      "author": {
+        "name": "Noam Naumovsky",
+        "url": "https://github.com/endlessblink"
+      },
+      "category": "design",
+      "keywords": [
+        "audit",
+        "control",
+        "design",
+        "surface"
+      ]
+    },
+    {
+      "name": "arthouse-promo",
+      "source": "./plugins/arthouse-promo",
+      "description": "Recreate or upgrade the arthouse \"Top-N open calls this week\" promo video — a recurring code-only HyperFrames motion-graphics deliverable in cream-editorial style with high-quality sans type and real event covers. Use when asked to make/regenerate the weekly arthouse open-calls promo, a new week's c",
+      "version": "1.0.0",
+      "author": {
+        "name": "Noam Naumovsky",
+        "url": "https://github.com/endlessblink"
+      },
+      "category": "media",
+      "keywords": [
+        "arthouse",
+        "media",
+        "promo"
+      ]
+    },
+    {
+      "name": "distill-session",
+      "source": "./plugins/distill-session",
+      "description": "Distill the current conversation into a reusable Markdown skill at `~/.codex/skills/sessions/<topic>.md` so future sessions can replay the approach instead of re-deriving it. Use when a substantial multi-step task wraps up (major refactor, architecture change, debugging investigation, multi-phase bu",
+      "version": "1.0.0",
+      "author": {
+        "name": "Noam Naumovsky",
+        "url": "https://github.com/endlessblink"
+      },
+      "category": "workflow",
+      "keywords": [
+        "distill",
+        "session",
+        "workflow"
+      ]
+    },
+    {
+      "name": "obsidian-memory-reliability",
+      "source": "./plugins/obsidian-memory-reliability",
+      "description": "Designs and implements robust durable memory for Obsidian AI plugins. Use when working on Ghost in the Vault memory capture, AI Memory/Core.md, protected memory namespaces, bilingual Hebrew/English triggers, memory verification, migration of unsupported memory notes, or preventing LLM hallucinated m",
+      "version": "1.0.0",
+      "author": {
+        "name": "Noam Naumovsky",
+        "url": "https://github.com/endlessblink"
+      },
+      "category": "development",
+      "keywords": [
+        "development",
+        "memory",
+        "obsidian",
+        "reliability"
+      ]
     }
   ]
 }

@@ -1,0 +1,19 @@
+{
+  "name": "curated-desktop-studio-ui",
+  "version": "1.0.0",
+  "description": "Designs and critiques curated desktop/studio-machine interfaces with OS metaphors, draggable windows, folders, docks, feeds, and playful widgets. Use when working on personal portfolio homepages or product surfaces that should feel like a mature macOS/Raycast/Arc/Obsidian-inspired workspace rather t",
+  "author": {
+    "name": "Noam Naumovsky",
+    "url": "https://github.com/endlessblink"
+  },
+  "keywords": [
+    "curated",
+    "design",
+    "desktop",
+    "studio",
+    "ui"
+  ],
+  "skills": [
+    "./skills/curated-desktop-studio-ui"
+  ]
+}

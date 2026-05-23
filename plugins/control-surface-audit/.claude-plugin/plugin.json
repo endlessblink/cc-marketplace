@@ -1,0 +1,18 @@
+{
+  "name": "control-surface-audit",
+  "version": "1.0.0",
+  "description": "Audit admin dashboards, internal tools, schedulers, workflow builders, bot dashboards, and control panels for hidden reliability holes, misleading UI states, missing lifecycle guarantees, unobserved background jobs, and absent vertical tests. Use when a fast-built project feels hollow, fragile, or u",
+  "author": {
+    "name": "Noam Naumovsky",
+    "url": "https://github.com/endlessblink"
+  },
+  "keywords": [
+    "audit",
+    "control",
+    "design",
+    "surface"
+  ],
+  "skills": [
+    "./skills/control-surface-audit"
+  ]
+}

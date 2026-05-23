@@ -1,0 +1,17 @@
+{
+  "name": "premium-design-standards",
+  "version": "1.0.0",
+  "description": "Canonical, opinionated quality bar for premium design AND motion across video and UI — layout/composition, typography (Hebrew + English / bidi), readability & content density, color & surface, and motion/animation. Tech-agnostic principles with concrete numbers, named font/curve/color choices, and e",
+  "author": {
+    "name": "Noam Naumovsky",
+    "url": "https://github.com/endlessblink"
+  },
+  "keywords": [
+    "design",
+    "premium",
+    "standards"
+  ],
+  "skills": [
+    "./skills/premium-design-standards"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "linux-chief",
+  "version": "1.0.0",
+  "description": "Troubleshoot and enhance KDE Plasma 6 and Tuxedo OS Linux systems across audio, desktop, Docker, filesystems, video, AI tools, and performance.",
+  "author": {
+    "name": "Noam Naumovsky",
+    "url": "https://github.com/endlessblink"
+  },
+  "keywords": [
+    "chief",
+    "linux",
+    "system"
+  ],
+  "skills": [
+    "./skills/linux-chief"
+  ]
+}

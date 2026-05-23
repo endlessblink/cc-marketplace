@@ -1,0 +1,19 @@
+{
+  "name": "motion-graphics-not-slideshow",
+  "version": "1.0.0",
+  "description": "Apply when building animated video/motion content (HyperFrames, After Effects-style HTML, Lottie, web animations) that needs to feel like real animation rather than an animated slideshow. Use when the user says the result feels \"boring\", \"static\", \"like a slideshow\", asks for \"an actual animation\", ",
+  "author": {
+    "name": "Noam Naumovsky",
+    "url": "https://github.com/endlessblink"
+  },
+  "keywords": [
+    "graphics",
+    "media",
+    "motion",
+    "not",
+    "slideshow"
+  ],
+  "skills": [
+    "./skills/motion-graphics-not-slideshow"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "electron-linux-tray-state",
+  "version": "1.0.0",
+  "description": "Use when fixing Electron system tray/status indicator behavior on Linux, especially stale menus, wrong right-click labels, missing icon updates, KDE/GNOME StatusNotifierItem quirks, recording indicators, or tray lifecycle bugs.",
+  "author": {
+    "name": "Noam Naumovsky",
+    "url": "https://github.com/endlessblink"
+  },
+  "keywords": [
+    "development",
+    "electron",
+    "linux",
+    "state",
+    "tray"
+  ],
+  "skills": [
+    "./skills/electron-linux-tray-state"
+  ]
+}
