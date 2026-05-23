@@ -1,0 +1,18 @@
+{
+  "name": "pre-publish-qa",
+  "version": "1.0.0",
+  "description": "Run pre-publish QA for open-source Node.js apps, including secrets, PII, security, dependency, and documentation checks before release.",
+  "author": {
+    "name": "Noam Naumovsky",
+    "url": "https://github.com/endlessblink"
+  },
+  "keywords": [
+    "pre",
+    "publish",
+    "qa",
+    "workflow"
+  ],
+  "skills": [
+    "./skills/pre-publish-qa"
+  ]
+}
