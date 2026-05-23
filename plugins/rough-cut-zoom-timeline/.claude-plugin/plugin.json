@@ -1,0 +1,19 @@
+{
+  "name": "rough-cut-zoom-timeline",
+  "version": "1.0.0",
+  "description": "Use when working on Rough Cut's single shared timeline across Recording edit and NLE toolsets, clip trim/drag/split behavior, shared sync, zoom markers, Timeline panel UX, or preview/export parity. Applies to rough-cut-mvp.",
+  "author": {
+    "name": "Noam Naumovsky",
+    "url": "https://github.com/endlessblink"
+  },
+  "keywords": [
+    "cut",
+    "development",
+    "rough",
+    "timeline",
+    "zoom"
+  ],
+  "skills": [
+    "./skills/rough-cut-zoom-timeline"
+  ]
+}

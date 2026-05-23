@@ -1972,6 +1972,58 @@
         "obsidian",
         "reliability"
       ]
+    },
+    {
+      "name": "pre-publish-qa",
+      "source": "./plugins/pre-publish-qa",
+      "description": "Run pre-publish QA for open-source Node.js apps, including secrets, PII, security, dependency, and documentation checks before release.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Noam Naumovsky",
+        "url": "https://github.com/endlessblink"
+      },
+      "category": "workflow",
+      "keywords": [
+        "pre",
+        "publish",
+        "qa",
+        "workflow"
+      ]
+    },
+    {
+      "name": "telegram-bot-ops",
+      "source": "./plugins/telegram-bot-ops",
+      "description": "Production operations guide for python-telegram-bot v20+ community bots, covering polling vs webhooks, forum topics, scheduling, rate limits, dashboard integration, and deployment.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Noam Naumovsky",
+        "url": "https://github.com/endlessblink"
+      },
+      "category": "development",
+      "keywords": [
+        "bot",
+        "development",
+        "ops",
+        "telegram"
+      ]
+    },
+    {
+      "name": "rough-cut-zoom-timeline",
+      "source": "./plugins/rough-cut-zoom-timeline",
+      "description": "Use when working on Rough Cut's single shared timeline across Recording edit and NLE toolsets, clip trim/drag/split behavior, shared sync, zoom markers, Timeline panel UX, or preview/export parity. Applies to rough-cut-mvp.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Noam Naumovsky",
+        "url": "https://github.com/endlessblink"
+      },
+      "category": "development",
+      "keywords": [
+        "cut",
+        "development",
+        "rough",
+        "timeline",
+        "zoom"
+      ]
     }
   ]
 }
