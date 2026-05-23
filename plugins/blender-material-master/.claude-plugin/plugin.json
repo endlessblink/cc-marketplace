@@ -1,0 +1,18 @@
+{
+  "name": "blender-material-master",
+  "version": "1.0.0",
+  "description": "Create production-ready Blender materials for game engines with Dutch Golden Age painterly terrain, texture blending, UV, baking, and export workflows.",
+  "author": {
+    "name": "Noam Naumovsky",
+    "url": "https://github.com/endlessblink"
+  },
+  "keywords": [
+    "3d",
+    "blender",
+    "master",
+    "material"
+  ],
+  "skills": [
+    "./skills/blender-material-master"
+  ]
+}

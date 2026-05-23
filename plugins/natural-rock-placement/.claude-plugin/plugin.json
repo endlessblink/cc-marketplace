@@ -1,0 +1,18 @@
+{
+  "name": "natural-rock-placement",
+  "version": "1.0.0",
+  "description": "Place rocks and boulders naturally in 3D environments using Blender workflows, scale rules, grouping, terrain integration, and composition guidance.",
+  "author": {
+    "name": "Noam Naumovsky",
+    "url": "https://github.com/endlessblink"
+  },
+  "keywords": [
+    "3d",
+    "natural",
+    "placement",
+    "rock"
+  ],
+  "skills": [
+    "./skills/natural-rock-placement"
+  ]
+}

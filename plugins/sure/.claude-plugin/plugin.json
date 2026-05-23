@@ -1,0 +1,16 @@
+{
+  "name": "sure",
+  "version": "1.0.0",
+  "description": "Confidence gate before implementing a fix or feature.",
+  "author": {
+    "name": "Noam Naumovsky",
+    "url": "https://github.com/endlessblink"
+  },
+  "keywords": [
+    "sure",
+    "workflow"
+  ],
+  "skills": [
+    "./skills/sure"
+  ]
+}

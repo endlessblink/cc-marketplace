@@ -1,0 +1,17 @@
+{
+  "name": "dashboard-designer",
+  "version": "1.0.0",
+  "description": "Premium dark-mode admin dashboard designer with RTL Hebrew support, content editor UX patterns, and Tailwind templates. Use when building or redesigning dashboards, admin panels, or control panels.",
+  "author": {
+    "name": "Noam Naumovsky",
+    "url": "https://github.com/endlessblink"
+  },
+  "keywords": [
+    "dashboard",
+    "design",
+    "designer"
+  ],
+  "skills": [
+    "./skills/dashboard-designer"
+  ]
+}

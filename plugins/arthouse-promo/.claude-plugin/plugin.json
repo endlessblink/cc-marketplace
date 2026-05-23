@@ -1,0 +1,17 @@
+{
+  "name": "arthouse-promo",
+  "version": "1.0.0",
+  "description": "Recreate or upgrade the arthouse \"Top-N open calls this week\" promo video — a recurring code-only HyperFrames motion-graphics deliverable in cream-editorial style with high-quality sans type and real event covers. Use when asked to make/regenerate the weekly arthouse open-calls promo, a new week's c",
+  "author": {
+    "name": "Noam Naumovsky",
+    "url": "https://github.com/endlessblink"
+  },
+  "keywords": [
+    "arthouse",
+    "media",
+    "promo"
+  ],
+  "skills": [
+    "./skills/arthouse-promo"
+  ]
+}

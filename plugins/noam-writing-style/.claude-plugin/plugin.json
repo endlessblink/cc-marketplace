@@ -1,0 +1,17 @@
+{
+  "name": "noam-writing-style",
+  "version": "1.0.0",
+  "description": "Writing style guide for Noam Naumovsky's Hebrew and English content. Use whenever drafting, editing, reviewing, or ingesting content that will be published under Noam's name or voice, especially Inner Dialogue posts.",
+  "author": {
+    "name": "Noam Naumovsky",
+    "url": "https://github.com/endlessblink"
+  },
+  "keywords": [
+    "noam",
+    "style",
+    "writing"
+  ],
+  "skills": [
+    "./skills/noam-writing-style"
+  ]
+}

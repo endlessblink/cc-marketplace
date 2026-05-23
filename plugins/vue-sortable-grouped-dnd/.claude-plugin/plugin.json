@@ -1,0 +1,19 @@
+{
+  "name": "vue-sortable-grouped-dnd",
+  "version": "1.0.0",
+  "description": "Implement grouped drag-and-drop in Vue 3 with SortableJS, vuedraggable, auto-scroll, cross-group transfer, and related edge-case guidance.",
+  "author": {
+    "name": "Noam Naumovsky",
+    "url": "https://github.com/endlessblink"
+  },
+  "keywords": [
+    "development",
+    "dnd",
+    "grouped",
+    "sortable",
+    "vue"
+  ],
+  "skills": [
+    "./skills/vue-sortable-grouped-dnd"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "rtl-design",
+  "version": "1.0.0",
+  "description": "RTL (right-to-left) design patterns for Hebrew/Arabic apps with mixed LTR content. Use when building or fixing RTL layouts, forms, inputs, or mixed-direction text. Triggers on RTL issues, Hebrew layout work, bidirectional text problems.",
+  "author": {
+    "name": "Noam Naumovsky",
+    "url": "https://github.com/endlessblink"
+  },
+  "keywords": [
+    "design",
+    "rtl"
+  ],
+  "skills": [
+    "./skills/rtl-design"
+  ]
+}
