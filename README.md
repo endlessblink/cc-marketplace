@@ -1,13 +1,13 @@
-# Claude Code Marketplace
+# Noam Claude Code Skills
 
-Community-driven marketplace for Claude Code commands and plugins.
+Skills, commands, and agents for Claude Code, including precaution guides for LinkedIn and social network reading. Based on the [community Claude Code marketplace](https://github.com/ananddtyagi/cc-marketplace), with additions maintained here.
 
 ## 🚀 Quick Start
 
 Add this marketplace to Claude Code:
 
 ```bash
-/plugin marketplace add ananddtyagi/cc-marketplace
+/plugin marketplace add endlessblink/noam-claude-code-skills
 ```
 
 Then browse and install individual plugins (commands or agents):
@@ -18,13 +18,29 @@ Then browse and install individual plugins (commands or agents):
 
 Install a specific command:
 ```bash
-/plugin install lyra@cc-marketplace
+/plugin install lyra@noam-claude-code-skills
 ```
 
 Install a specific agent:
 ```bash
-/plugin install accessibility-expert@cc-marketplace
+/plugin install accessibility-expert@noam-claude-code-skills
 ```
+
+## LinkedIn and social reading guides
+
+These are precaution guides, with no guarantee against detection, account restrictions, or bans.
+
+- [LinkedIn reading guide](plugins/linkedin-safe-reading/skills/linkedin-safe-reading/SKILL.md)
+- [Social network reading guide](plugins/social-safe-reading/skills/social-safe-reading/SKILL.md)
+
+```bash
+/plugin install linkedin-safe-reading@noam-claude-code-skills
+/plugin install social-safe-reading@noam-claude-code-skills
+```
+
+If you previously added this fork as `endlessblink/cc-marketplace`, remove that marketplace entry and add `endlessblink/noam-claude-code-skills` using the command above. The marketplace name is now `noam-claude-code-skills`.
+
+If these guides helped, [give this repository a star](https://github.com/endlessblink/noam-claude-code-skills).
 
 ## 🌟 Featured Commands
 
@@ -71,7 +87,7 @@ Install only what you need - no bloat, full granular control!
 
 ## 🔄 Auto-Sync
 
-This marketplace is automatically synced from the live database whenever commands are published or updated.
+The upstream community marketplace is synced from its directory database. This repository also includes its own additions; use this repository's install URL above to get them.
 
 ## 📝 License
 
