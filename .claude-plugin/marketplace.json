@@ -2024,6 +2024,40 @@
         "timeline",
         "zoom"
       ]
+    },
+    {
+      "name": "linkedin-safe-reading",
+      "source": "./plugins/linkedin-safe-reading",
+      "description": "Rules for AI agents reading LinkedIn (profiles, posts, job pages) without getting the account restricted or locked.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Noam Naumovsky",
+        "url": "https://github.com/endlessblink"
+      },
+      "category": "workflow",
+      "keywords": [
+        "linkedin",
+        "job-search",
+        "browser-agents",
+        "account-safety"
+      ]
+    },
+    {
+      "name": "social-safe-reading",
+      "source": "./plugins/social-safe-reading",
+      "description": "Rules for AI agents reading social networks (LinkedIn, Facebook, Instagram, X, Reddit, TikTok, YouTube) without getting the account blocked.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Noam Naumovsky",
+        "url": "https://github.com/endlessblink"
+      },
+      "category": "workflow",
+      "keywords": [
+        "social-media",
+        "browser-agents",
+        "account-safety",
+        "scraping"
+      ]
     }
   ]
 }

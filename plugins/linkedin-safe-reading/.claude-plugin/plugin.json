@@ -1,0 +1,18 @@
+{
+  "name": "linkedin-safe-reading",
+  "version": "1.0.0",
+  "description": "Rules for AI agents reading LinkedIn (profiles, posts, job pages) without getting the account restricted or locked.",
+  "author": {
+    "name": "Noam Naumovsky",
+    "url": "https://github.com/endlessblink"
+  },
+  "keywords": [
+    "linkedin",
+    "job-search",
+    "browser-agents",
+    "account-safety"
+  ],
+  "skills": [
+    "./skills/linkedin-safe-reading"
+  ]
+}
