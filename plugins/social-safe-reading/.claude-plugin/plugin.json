@@ -1,7 +1,7 @@
 {
   "name": "social-safe-reading",
-  "version": "1.0.0",
-  "description": "Rules for AI agents reading social networks (LinkedIn, Facebook, Instagram, X, Reddit, TikTok, YouTube) without getting the account blocked.",
+  "version": "1.0.1",
+  "description": "Precaution guide for AI-assisted social network reading. No guarantee against detection, restrictions or bans.",
   "author": {
     "name": "Noam Naumovsky",
     "url": "https://github.com/endlessblink"
